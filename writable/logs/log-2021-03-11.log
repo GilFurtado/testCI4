@@ -1,0 +1,36 @@
+CRITICAL - 2021-03-11 19:03:17 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\prj_php\CI4\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\prj_php\CI4\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\prj_php\CI4\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\prj_php\CI4\spark(53): require('C:\\prj_php\\CI4\\...')
+#4 {main}
+CRITICAL - 2021-03-11 19:03:24 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\prj_php\CI4\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\prj_php\CI4\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\prj_php\CI4\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\prj_php\CI4\spark(53): require('C:\\prj_php\\CI4\\...')
+#4 {main}
+CRITICAL - 2021-03-11 19:03:25 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\prj_php\CI4\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\prj_php\CI4\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\prj_php\CI4\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\prj_php\CI4\spark(53): require('C:\\prj_php\\CI4\\...')
+#4 {main}
+CRITICAL - 2021-03-11 19:03:26 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\prj_php\CI4\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\prj_php\CI4\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\prj_php\CI4\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\prj_php\CI4\spark(53): require('C:\\prj_php\\CI4\\...')
+#4 {main}
+CRITICAL - 2021-03-11 19:03:26 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\prj_php\CI4\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\prj_php\CI4\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\prj_php\CI4\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\prj_php\CI4\spark(53): require('C:\\prj_php\\CI4\\...')
+#4 {main}
+CRITICAL - 2021-03-11 19:03:27 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\prj_php\CI4\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\prj_php\CI4\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\prj_php\CI4\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\prj_php\CI4\spark(53): require('C:\\prj_php\\CI4\\...')
+#4 {main}
